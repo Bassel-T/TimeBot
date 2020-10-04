@@ -781,4 +781,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Title.unity
   - Assets/Scenes/SampleScene.unity
   playerPath: C:/Users/sool1/Desktop/Game Jams/Ludum Dare - Loop/TimeBot/TimeBot
-    Build/TimeBot.exe
+    Windows/TimeBot.exe
